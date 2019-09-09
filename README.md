@@ -1,0 +1,2 @@
+# MQTT_JALA_DEVICES_TEST
+testing for IOT JALA DEVICES using MQTT method
